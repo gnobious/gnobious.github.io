@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Projects/Resto/static/css/main.2ed0627f.chunk.css",
+    "main.js": "/Projects/Resto/static/js/main.b628dd62.chunk.js",
+    "main.js.map": "/Projects/Resto/static/js/main.b628dd62.chunk.js.map",
+    "runtime~main.js": "/Projects/Resto/static/js/runtime~main.49b28858.js",
+    "runtime~main.js.map": "/Projects/Resto/static/js/runtime~main.49b28858.js.map",
+    "static/js/2.48060bdf.chunk.js": "/Projects/Resto/static/js/2.48060bdf.chunk.js",
+    "static/js/2.48060bdf.chunk.js.map": "/Projects/Resto/static/js/2.48060bdf.chunk.js.map",
+    "index.html": "/Projects/Resto/index.html",
+    "precache-manifest.02dff4efda8fc925e7f9fec1f9677391.js": "/Projects/Resto/precache-manifest.02dff4efda8fc925e7f9fec1f9677391.js",
+    "service-worker.js": "/Projects/Resto/service-worker.js",
+    "static/css/main.2ed0627f.chunk.css.map": "/Projects/Resto/static/css/main.2ed0627f.chunk.css.map",
+    "static/media/food-bg.jpg": "/Projects/Resto/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/Projects/Resto/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
